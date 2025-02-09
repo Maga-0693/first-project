@@ -10,6 +10,8 @@ public class Zadacha2 {
         double rateEUR = 103.8;
         double rateCNY = 13.1;
 
+
+
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Сколько денег у вас осталось до зарплаты?");
