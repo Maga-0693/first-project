@@ -21,6 +21,8 @@ public class Zadacha2 {
         int daysBeforeSalary = scanner.nextInt();
 
         while (true) {
+
+
             System.out.println("Что вы хотите сделать?");
             System.out.println("1 — Конвертировать валюту");
             System.out.println("2 — Получить совет");
